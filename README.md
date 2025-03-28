@@ -7,3 +7,5 @@ This Power BI dashboard provides a comprehensive analysis of Zomato's sales perf
 ✅ Analyzing customer order patterns & spending habits
 ✅ Tracking revenue trends & geographic demand
 ✅ Optimizing pricing & marketing strategie
+
+##Dataset Used

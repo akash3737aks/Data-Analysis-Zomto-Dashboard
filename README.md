@@ -1,2 +1,9 @@
-# Data-Analysis-Zomto-Dashboard
-This interactive Power BI dashboard provides a comprehensive analysis of Zomato's sales, orders, and customer engagement across various cities. It enables decision-makers to track key performance metrics, analyze trends, and identify top-performing locations.
+# Zomato Sales & Customer Insights Dashboard
+
+##Project Objective
+This Power BI dashboard provides a comprehensive analysis of Zomato's sales performance, customer behavior, and restaurant trends. It helps in:
+
+✅ Identifying top-performing restaurants & cuisines
+✅ Analyzing customer order patterns & spending habits
+✅ Tracking revenue trends & geographic demand
+✅ Optimizing pricing & marketing strategie

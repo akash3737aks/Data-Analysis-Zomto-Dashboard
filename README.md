@@ -43,7 +43,7 @@ This Power BI dashboard provides a comprehensive analysis of **Zomato's sales pe
 ---
 
 #### **📌 Dashboard & Insights**  
-!![Untitled design (2)](https://github.com/user-attachments/assets/50bbb66a-2ba6-4c4c-a392-e141f96e47a5)
+![Untitled design (2)](https://github.com/user-attachments/assets/50bbb66a-2ba6-4c4c-a392-e141f96e47a5)
 
 
 ---
